@@ -72,7 +72,7 @@ ChatGLM-6B 权重对学术研究完全开放，在填写问卷进行登记后亦
 
 
 ## Baichuan-7B
-[Github地址 Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) 
+[Github地址 Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)  
 Baichuan-7B 是由百川智能开发的一个开源可商用的大规模预训练语言模型。基于 Transformer 结构，在大约 1.2 万亿 tokens 上训练的 70 亿参数模型，支持中英双语，上下文窗口长度为 4096。在标准的中文和英文 benchmark（C-Eval/MMLU）上均取得同尺寸最好的效果。
 
 
