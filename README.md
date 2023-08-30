@@ -45,6 +45,7 @@ ChatDZQ是我们旗下一款基于GPT进行API接口开发的自然语言处理�
 
 ![](./img/gif01.gif)
 ![](./img/gif02.gif)
+![](./img/gif03.gif)
 
 # 开源大模型
 ## Llama 2
