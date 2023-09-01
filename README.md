@@ -36,9 +36,6 @@
 ![](./img/01.png)
 
 
-<video controls>
-  <source src="./vedio/vedio01.mp4" type="video/mp4">
-</video>
 
 
 我们基于自身搭建的一整套从业务、数据、算法等协同的SaaS中台系统，通过对GPT微训练模型研究，逐步实现一些具体场景应用。  
